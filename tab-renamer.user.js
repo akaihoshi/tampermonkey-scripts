@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         Tab Renamer
 // @namespace    tab-renamer
-// @version      4.0
+// @version      4.1
 // @description  用 Tampermonkey 選單自訂任何網站的 tab 標題
+// @updateURL    https://raw.githubusercontent.com/akaihoshi/tampermonkey-scripts/master/tab-renamer.user.js
+// @downloadURL  https://raw.githubusercontent.com/akaihoshi/tampermonkey-scripts/master/tab-renamer.user.js
 // @match        *://*/*
 // @noframes
 // @run-at       document-start
